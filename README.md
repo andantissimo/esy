@@ -1,0 +1,4 @@
+esy
+===
+
+EmEditor Syntax Files
